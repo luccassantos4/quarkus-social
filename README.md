@@ -1,6 +1,8 @@
 # quarkus-social Project
 
-Quarkus
-Java
-Swagger: API Documentation
-Testes Unitários
+<ul>
+<li>Quarkus</li>
+<li>Java</li>
+<li>Swagger: API Documentation</li>
+<li>Testes Unitários</li>
+</ul>
