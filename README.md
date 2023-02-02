@@ -1,1 +1,1 @@
-# quarkus-socia Project
+# quarkus-social Project
